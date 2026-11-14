@@ -14,7 +14,7 @@ Native desktop performance built with Rust and Tauri for Windows, macOS, and Lin
 
 <p align="center">
   <a href="https://github.com/kanadehq/kanade/releases"><img src="https://img.shields.io/badge/Download%20for%20Windows%2C%20macOS%20%26%20Linux-ea580c?style=for-the-badge" alt="Download" /></a>
-  <a href="https://discord.com/invite/u7QXUgPcqr"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/AKTgUTmfr"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <p align="center">
@@ -291,4 +291,4 @@ Kanade is a client-side media player. It does not host, cache, or redistribute c
 
 ## License
 
-GNU General Public License v3.0. Copyright (c) 2026 [rry0ku](https://github.com/rry0ku).
+GNU General Public License v3.0. Copyright (c) 2026 [Siddhartha-naidu](https://github.com/Siddhartha-naidu).
