@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Kanade
+Comment=Free, open-source and ad-free desktop music streaming app
+Exec=kanade %U
+Icon=kanade
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Player;Music;
+MimeType=x-scheme-handler/kanade;
+StartupWMClass=kanade
