@@ -17,7 +17,7 @@ Please report security vulnerabilities through one of the following channels:
    Navigate to the [Security Advisories](https://github.com/Siddhartha-naidu/Kanade-Windows-Build/issues) page and click **Report a vulnerability**. This allows secure, private communication directly with the project maintainers.
 
 2. **Discord Security Contact**:
-   Reach out directly to the maintainer via our [Discord Community](https://discord.com/invite/u7QXUgPcqr) in a direct message.
+   Reach out directly to the maintainer via our [Discord Community](https://discord.gg/AKTgUTmfr) in a direct message.
 
 ### What to Include in Your Report
 
