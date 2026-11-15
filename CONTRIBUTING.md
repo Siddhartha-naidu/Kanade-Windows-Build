@@ -124,7 +124,7 @@ npm run setup:deps
 
 If you prefer to configure binaries manually:
 
-1. Download `binaries.zip` from the latest [GitHub Release](https://github.com/kanadehq/kanade/releases).
+1. Download `binaries.zip` from the latest [GitHub Release](https://github.com/Siddhartha-naidu/Kanade-Windows-Build/releases).
 2. Extract the contents directly into the `src-tauri/binaries/` directory.
 3. Ensure the following files exist in `src-tauri/binaries/`:
    - `mpv-x86_64-pc-windows-msvc.exe`
@@ -139,7 +139,7 @@ If you prefer to configure binaries manually:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kanadehq/kanade.git
+git clone https://github.com/Siddhartha-naidu/Kanade-Windows-Build.git
 cd kanade
 ```
 
