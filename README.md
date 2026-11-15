@@ -13,7 +13,8 @@ Native desktop performance built with Rust and Tauri for Windows, macOS, and Lin
 </p>
 
 <p align="center">
-  <a href="https://github.com/kanadehq/kanade/releases"><img src="https://img.shields.io/badge/Download%20for%20Windows%2C%20macOS%20%26%20Linux-ea580c?style=for-the-badge" alt="Download" /></a>
+  <a href="https://github.com/Siddhartha-naidu/Kanade-Windows-Build/releases"><img src="https://img.shields.io/badge/Download%20for%20Windows-ea580c?style=for-the-badge" alt="Download" /></a>
+
   <a href="https://discord.gg/AKTgUTmfr"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
@@ -26,7 +27,8 @@ Native desktop performance built with Rust and Tauri for Windows, macOS, and Lin
 </p>
 
 <p align="center">
-  <a href="https://github.com/kanadehq/kanade/releases"><img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-informational?style=flat-square&logo=apple&logoColor=white" alt="Platform" /></a>
+  <a href="https://github.com/Siddhartha-naidu/Kanade-Windows-Build/releases"><img src="https://img.shields.io/badge/platform-Windows-informational?style=flat-square&logo=windows&logoColor=white" alt="Platform" /></a>
+
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-ea580c?style=flat-square" alt="License" /></a>
   <a href="https://tauri.app"><img src="https://img.shields.io/badge/Tauri-v2-FFC131?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" /></a>
   <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-stable-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust" /></a>
@@ -35,10 +37,10 @@ Native desktop performance built with Rust and Tauri for Windows, macOS, and Lin
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/kanadehq/kanade/releases">Download Releases</a></strong> |
+  <strong><a href="https://github.com/Siddhartha-naidu/Kanade-Windows-Build/releases">Download Releases</a></strong> |
   <strong><a href="#building-from-source">Build from Source</a></strong> |
   <strong><a href="CONTRIBUTING.md">Contribute</a></strong> |
-  <strong><a href="https://github.com/kanadehq/kanade/issues">Report an Issue</a></strong> |
+  <strong><a href="src="https://github.com/Siddhartha-naidu/Kanade-Windows-Build/issue">Report an Issue</a></strong> |
   <strong><a href="#legal-and-fair-use">Legal and Fair Use</a></strong>
 </p>
 
