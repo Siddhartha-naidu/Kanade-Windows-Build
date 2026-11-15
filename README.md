@@ -40,7 +40,7 @@ Native desktop performance built with Rust and Tauri for Windows, macOS, and Lin
   <strong><a href="https://github.com/Siddhartha-naidu/Kanade-Windows-Build/releases">Download Releases</a></strong> |
   <strong><a href="#building-from-source">Build from Source</a></strong> |
   <strong><a href="CONTRIBUTING.md">Contribute</a></strong> |
-  <strong><a href="src="https://github.com/Siddhartha-naidu/Kanade-Windows-Build/issue">Report an Issue</a></strong> |
+  <strong><a href="https://github.com/Siddhartha-naidu/Kanade-Windows-Build/issues">Report an Issue</a></strong> |
   <strong><a href="#legal-and-fair-use">Legal and Fair Use</a></strong>
 </p>
 
