@@ -8,14 +8,13 @@ Users are encouraged to always update to the latest release to ensure they recei
 
 ## Reporting a Vulnerability
 
-The Kanade team takes the security of our application and users seriously. If you discover a security vulnerability in Kanade, please do not disclose it publicly in a standard GitHub issue.
-
+The Kanade takes the security of our application and users seriously. If you discover a security vulnerability in Kanade, please post in issues page
 ### How to Report
 
 Please report security vulnerabilities through one of the following channels:
 
 1. **GitHub Private Vulnerability Reporting (Recommended)**:
-   Navigate to the [Security Advisories](https://github.com/kanadehq/kanade/security/advisories) page and click **Report a vulnerability**. This allows secure, private communication directly with the project maintainers.
+   Navigate to the [Security Advisories](https://github.com/Siddhartha-naidu/Kanade-Windows-Build/issues) page and click **Report a vulnerability**. This allows secure, private communication directly with the project maintainers.
 
 2. **Discord Security Contact**:
    Reach out directly to the maintainer via our [Discord Community](https://discord.com/invite/u7QXUgPcqr) in a direct message.
