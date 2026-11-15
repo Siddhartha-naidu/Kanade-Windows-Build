@@ -284,5 +284,5 @@ Test the relevant functionality manually:
 
 If you have questions, need guidance, or want to discuss ideas before implementing them:
 
-- Join our **Discord Community**: https://discord.com/invite/u7QXUgPcqr
-- Open an issue on **GitHub**: https://github.com/kanadehq/kanade/issues
+- Join our **Discord Community**: https://discord.gg/AKTgUTmfr
+- Open an issue on **GitHub**: https://github.com/Siddhartha-naidu/Kanade-Windows-Build/issues
