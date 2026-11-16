@@ -29,8 +29,7 @@ jobs:
 
       - name: Install Frontend Dependencies
         run: npm install
-
-      - - name: Initialize Android Scaffolding
+      - name: Initialize Android Scaffolding
         run: npx @tauri-apps/cli android init
 
       - name: Build Android APK
