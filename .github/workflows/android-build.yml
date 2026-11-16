@@ -31,7 +31,9 @@ jobs:
         run: echo "NDK_HOME=$ANDROID_HOME/ndk/$(ls -1 $ANDROID_HOME/ndk | head -n 1)" >> $GITHUB_ENV
 
       - name: Install Frontend Dependencies
-        run: npm install
+        run: |
+          npm install
+          npm --prefix ui install
 
       - name: Install Native Tauri CLI
         run: cargo install tauri-cli
