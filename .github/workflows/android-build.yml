@@ -27,13 +27,20 @@ jobs:
         with:
           targets: aarch64-linux-android, armv7-linux-androideabi, i686-linux-android, x86_64-linux-android
 
+      - name: Setup Android NDK
+        run: echo "NDK_HOME=$ANDROID_HOME/ndk/$(ls -1 $ANDROID_HOME/ndk | head -n 1)" >> $GITHUB_ENV
+
       - name: Install Frontend Dependencies
         run: npm install
+
+      - name: Install Native Tauri CLI
+        run: cargo install tauri-cli
+
       - name: Initialize Android Scaffolding
-        run: npx @tauri-apps/cli android init
+        run: cargo tauri android init
 
       - name: Build Android APK
-        run: npx @tauri-apps/cli android build --apk
+        run: cargo tauri android build --apk
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
