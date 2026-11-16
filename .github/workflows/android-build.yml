@@ -30,11 +30,11 @@ jobs:
       - name: Install Frontend Dependencies
         run: npm install
 
-      - name: Initialize Android Scaffolding
-        run: npx tauri android init
+      - - name: Initialize Android Scaffolding
+        run: npx @tauri-apps/cli android init
 
       - name: Build Android APK
-        run: npx tauri android build --apk
+        run: npx @tauri-apps/cli android build --apk
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
